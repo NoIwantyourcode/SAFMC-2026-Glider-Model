@@ -1,7 +1,12 @@
+#Ultra Important note to reviewers
+This is a not a competition that is affiliated with my school, I have joined the competion myself as it aligns with my interests and passion and it is my sole decision to do so
+
+#Why I am doing this project
 This a project dedicated to maing the best possible glider for a competitiion that is held sometime midmarch, my goal is to not only win, But to dominate
 
 I already did this competion last year once, I am applying everthing that I learn't from last year not only including where I went wrong but also where I went right
 
+#Design specification
 My glider has a list of specifications that it must meet to qualify and achieve these goals
      - The gliders maximum wing span and fuselage length must be 60cm
      - the gliders minimum wing span and fuselage length must be 30cm
@@ -11,6 +16,7 @@ My glider has a list of specifications that it must meet to qualify and achieve 
      - The glider must fly a minimum of 36 meters however the more the better
      - The glider must not deviate too while in flight as there is no method to control it once launched
 
+#Designs
 Currently I have 2 possible final design with more to come and 18 possible preliminary design
 Out of 18 possible preliminary design I will chose 3 to upgrade and reform into possible final design
 
